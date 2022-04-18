@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "packages/"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "packages": true,
+    },
+    "eslint.workingDirectories": [
+      ".",
+      "packages/"
+    ]
+  }
+}
